@@ -1,2 +1,2 @@
 # Pendulum
-A Pendulum animation made with Python and TKinter
+A Pendulum animation made with Python and PyGame
